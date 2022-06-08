@@ -1,0 +1,4 @@
+C:\Users\EIC\Documents\test_ju\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\EIC\Documents\test_ju\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\julia\test_unity_Csharp\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\julia\test_unity_Csharp\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
